@@ -16,7 +16,7 @@ gpt_deployment="gpt-5-mini"
 gpt_api_key=""
 gpt_api_version="2025-01-01-preview"
 
-# Phi-4 credentials.
+# Phi-4 credentials
 phi_4_endpoint=""
 phi_4_deployment="Phi-4"
 phi_4_api_key=""
